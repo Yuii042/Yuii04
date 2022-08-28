@@ -12,5 +12,4 @@
 ![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
 ![THANKSCHEERSANDE](https://user-images.githubusercontent.com/20098740/178380759-cba8cee3-8a86-408d-9924-5bcf9ec17375.gif)
 ![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5617137.gif" width="633" height="108" alt="HELLO EVERYONE I'M YULI" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a>
+<img src="https://images.cooltext.com/5617141.gif" width="340" height="83" alt="YULI IS HERE" /></a></a>
